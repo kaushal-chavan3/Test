@@ -1,0 +1,11 @@
+#!/bin/sh
+
+#Present working directory
+pwd
+
+#List command
+ls -l
+
+#date
+date
+
